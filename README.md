@@ -17,10 +17,9 @@ Frontend	HTML, CSS, JavaScript
 API	OpenWeatherMap
 
 weather-app/
-│
-├── index.html       # Main HTML page
-├── style.css        # Styling for the app
-└── script.js        # JavaScript logic + API call
+index.html       # Main HTML page
+style.css        # Styling for the app
+script.js        # JavaScript logic + API call
 
 How to Run Locally
 Clone or download this repository.
